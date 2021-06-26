@@ -1,3 +1,4 @@
+import org.testng.Assert;
 import org.testng.annotations.Test;
 
 public class HomeTest {
@@ -13,6 +14,8 @@ public class HomeTest {
 	public void test2() {
 		
 		System.out.println("changes on feature branch");
+		
+		Assert.assertEquals(false, false);
 		
 	}
 	
