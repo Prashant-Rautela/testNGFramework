@@ -1,8 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 6.542 s <<< FAILURE! - in TestSuite
-HomeTest.tast2  Time elapsed: 0.01 s  <<< FAILURE!
-java.lang.AssertionError: expected [true] but found [false]
-	at HomeTest.tast2(HomeTest.java:19)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.291 s - in TestSuite
