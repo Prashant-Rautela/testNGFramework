@@ -1,3 +1,7 @@
 com\qa\Utilities\getScreenshot.class
+com\qa\BasePage\ExtentFactory.class
 com\qa\BasePage\baseClass.class
+com\qa\BasePage\CustomFunctions.class
 com\qa\Pages\SignInPage.class
+com\qa\BasePage\ExtentListenerClass.class
+com\qa\BasePage\DriverClass.class
